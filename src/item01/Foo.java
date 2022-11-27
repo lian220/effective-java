@@ -48,7 +48,7 @@ public class Foo {
     }
 
 
-    public static void main(String[] args) {git
+    public static void main(String[] args) {
         Foo foo = new Foo("keesun");
         Foo foo1 = Foo.withName("keesum");
 
