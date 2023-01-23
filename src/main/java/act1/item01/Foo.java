@@ -1,10 +1,9 @@
-package item01;
+package act1.item01;
 
 import java.util.EnumSet;
 
-import static item01.Foo.Color.RED;
-import static item01.Foo.Color.WHITE;
-import static item01.Foo.Color.BLUE;
+import static act1.item01.Foo.Color.RED;
+import static act1.item01.Foo.Color.WHITE;
 
 public class Foo {
 

@@ -1,4 +1,4 @@
-package item03;
+package act1.item03;
 
 public class Singleton1 {
 

@@ -1,4 +1,4 @@
-package item03;
+package act1.item03;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

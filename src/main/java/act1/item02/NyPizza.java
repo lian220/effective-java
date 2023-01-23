@@ -1,4 +1,4 @@
-package item02;
+package act1.item02;
 
 import java.util.Objects;
 
