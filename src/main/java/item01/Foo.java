@@ -10,6 +10,7 @@ public class Foo {
 
     String name;
     String address;
+    String test;
 
     public Foo(String name) {
         this.name = name;
